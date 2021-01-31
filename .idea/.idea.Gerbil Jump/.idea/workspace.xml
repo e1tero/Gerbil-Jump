@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0f42c36-60c3-408c-8281-d70f8795bbc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Building.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Shadow Run/Assets/Script/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SaveData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/SaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/UIHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Building.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Comet.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lEA34nhoIJvCWx8McQMbVYxIBG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0f42c36-60c3-408c-8281-d70f8795bbc2" name="Default Changelist" comment="" />
+      <created>1607151692108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607151692108</updated>
+      <workItem from="1607151719450" duration="3449000" />
+      <workItem from="1607175856700" duration="1461000" />
+      <workItem from="1607187728934" duration="1810000" />
+      <workItem from="1607237359061" duration="5313000" />
+      <workItem from="1607256485354" duration="1764000" />
+      <workItem from="1607265006590" duration="2133000" />
+      <workItem from="1607312522539" duration="6545000" />
+      <workItem from="1607336487557" duration="4329000" />
+      <workItem from="1608737136094" duration="630000" />
+      <workItem from="1609259350555" duration="941000" />
+      <workItem from="1609892133311" duration="2593000" />
+      <workItem from="1609974240459" duration="3033000" />
+      <workItem from="1610140349411" duration="2793000" />
+      <workItem from="1610235894976" duration="2806000" />
+      <workItem from="1610242676936" duration="1504000" />
+      <workItem from="1610588232146" duration="692000" />
+      <workItem from="1610597352577" duration="945000" />
+      <workItem from="1611225335468" duration="801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
